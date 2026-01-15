@@ -70,6 +70,7 @@ Data analysis and visualization project exploring trends in Oscar Best Picture n
 - Built interactive visualizations to analyze genre trends, film duration, ratings, and studios
 
 🔗 Repo: https://github.com/Gurjas08/Oscars?tab=readme-ov-file#data-transformations
+
 ---
 
 ## Core Skills
