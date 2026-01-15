@@ -73,8 +73,8 @@ Data analysis and visualization project exploring trends in Oscar Best Picture n
 
 ## Core Skills
 Python • SQL • NumPy • Pandas • Scikit-learn • TensorFlow/Keras • PyTorch  
-ETL Pipelines • Data Cleaning • Feature Engineering • Model Training & Evaluation  
-APIs • SQLite • Streamlit • Power BI • Git • CI/CD
+ETL Pipelines • Data Modeling • Feature Engineering • Model Training & Evaluation  
+APIs • SQL/SQLite • Streamlit • Power BI • Data Visualization • Git • CI/CD
 
 ---
 
