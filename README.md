@@ -7,10 +7,7 @@ Vancouver, BC
 ---
 
 ## About Me
-I build end-to-end machine learning and data analytics projects that go from raw data to deployable insights. My work focuses on supervised learning, computer vision, and reproducible data pipelines, with an emphasis on clean preprocessing, model evaluation, and practical use cases.
-
-I’m currently targeting **entry-level ML / applied ML roles** where I can contribute to real-world model development and data-driven products.
-
+I build machine learning models as well as data analytics and data engineering projects, taking work end to end from raw data ingestion to modeling, evaluation, and insight delivery. My experience spans supervised learning and computer vision, along with large-scale ETL pipelines, API-driven data collection, and interactive dashboards. I focus on clean preprocessing, reproducible workflows, and practical implementations that translate data into usable outcomes.
 ---
 
 ## Featured Machine Learning Projects
@@ -69,7 +66,7 @@ Data analysis and visualization project exploring trends in Oscar Best Picture n
 - Engineered new variables (main genre, rating normalization, rating disparity metrics)
 - Built interactive visualizations to analyze genre trends, film duration, ratings, and studios
 
-🔗 Repo: https://github.com/Gurjas08/Oscars?tab=readme-ov-file#data-transformations
+🔗 Repo: https://github.com/Gurjas08/Oscars
 
 ---
 
@@ -81,8 +78,7 @@ APIs • SQLite • Streamlit • Power BI • Git • CI/CD
 ---
 
 ## What I’m Looking For
-Entry-level **Machine Learning Engineer**, **Applied ML**, or **ML-focused Data Science** roles where I can work on model development, data pipelines, and real-world deployment problems.
-
+I’m targeting entry-level Machine Learning, Applied ML, Data Analytics, and Data Engineering roles where I can work on building models, developing reliable data pipelines, and turning real-world data into actionable insights within production-oriented teams.
 ---
 
 ## Contact
