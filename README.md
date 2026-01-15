@@ -8,6 +8,7 @@ Vancouver, BC
 
 ## About Me
 I build machine learning models as well as data analytics and data engineering projects, taking work end to end from raw data ingestion to modeling, evaluation, and insight delivery. My experience spans supervised learning and computer vision, along with large-scale ETL pipelines, API-driven data collection, and interactive dashboards. I focus on clean preprocessing, reproducible workflows, and practical implementations that translate data into usable outcomes.
+
 ---
 
 ## Featured Machine Learning Projects
@@ -79,6 +80,7 @@ APIs • SQLite • Streamlit • Power BI • Git • CI/CD
 
 ## What I’m Looking For
 I’m targeting entry-level Machine Learning, Applied ML, Data Analytics, and Data Engineering roles where I can work on building models, developing reliable data pipelines, and turning real-world data into actionable insights within production-oriented teams.
+
 ---
 
 ## Contact
